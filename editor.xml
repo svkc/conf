@@ -2,4 +2,13 @@
   <component name="EditorSettings">
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
+  <component name="XmlEditorOptions">
+    <option name="autoCloseTag" value="false" />
+    <option name="automaticallyInsertClosingTag" value="false" />
+    <option name="automaticallyInsertRequiredAttributes" value="false" />
+    <option name="automaticallyInsertRequiredSubTags" value="false" />
+    <option name="automaticallyStartAttribute" value="false" />
+    <option name="insertQuotesForAttributeValue" value="false" />
+    <option name="syncTagEditing" value="false" />
+  </component>
 </application>
