@@ -1,8 +1,0 @@
-<application>
-  <component name="CodeInsightSettings">
-    <option name="AUTO_POPUP_COMPLETION_LOOKUP" value="false" />
-    <option name="SMART_INDENT_ON_ENTER" value="false" />
-    <option name="AUTOINSERT_PAIR_BRACKET" value="false" />
-    <option name="REFORMAT_ON_PASTE" value="1" />
-  </component>
-</application>
