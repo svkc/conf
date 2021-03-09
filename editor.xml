@@ -1,6 +1,7 @@
 <application>
   <component name="CodeInsightSettings">
     <option name="AUTO_POPUP_COMPLETION_LOOKUP" value="false" />
+    <option name="SMART_BACKSPACE" value="0" />
   </component>
   <component name="DefaultFont">
     <option name="LINE_SPACING" value="1.0" />
