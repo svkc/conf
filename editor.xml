@@ -2,7 +2,6 @@
   <component name="CodeInsightSettings">
     <option name="AUTO_POPUP_COMPLETION_LOOKUP" value="false" />
     <option name="SMART_BACKSPACE" value="0" />
-    <option name="INSERT_BRACE_ON_ENTER" value="false" />
     <option name="AUTOINSERT_PAIR_BRACKET" value="false" />
   </component>
   <component name="DefaultFont">
