@@ -10,6 +10,13 @@
   <component name="EditorSettings">
     <option name="STRIP_TRAILING_SPACES" value="None" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="JavaScript.js.type.hints" />
+      </set>
+    </option>
+  </component>
   <component name="XmlEditorOptions">
     <option name="autoCloseTag" value="false" />
     <option name="automaticallyInsertClosingTag" value="false" />
