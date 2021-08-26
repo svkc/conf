@@ -1,7 +1,0 @@
-<application>
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig authType="OPEN_SSH" host="printdirect.ru" id="fda9c84b-176e-4759-b5b7-fe59bf8fc18c" port="33022" nameFormat="DESCRIPTIVE" username="webdev" />
-    </configs>
-  </component>
-</application>
