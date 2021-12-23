@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="config" type="AUTO_DETECTED" />
       <mapping pattern="make_dev_us" type="AUTO_DETECTED" />
+      <mapping pattern="dump_project" type="AUTO_DETECTED" />
       <mapping ext="mysql" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="post" type="PLAIN_TEXT" />
